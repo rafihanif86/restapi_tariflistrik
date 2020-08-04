@@ -1,1 +1,1 @@
-ini readme
+Aplikasi untuk menghitung tarif listrik
